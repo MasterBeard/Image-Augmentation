@@ -1,0 +1,1 @@
+This repository primarily serves as the storage location for the image data of my article 'Boosting Financial Image Recognition Performance through Reverse Image Augmentation.' Additionally, a demo ipynb file has been uploaded, displaying the specific code for the image retraining algorithm.
